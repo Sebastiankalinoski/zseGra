@@ -1,0 +1,2 @@
+# zseGra
+klasyczna gra elektroniczna
